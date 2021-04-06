@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="104dp"
+        android:layout_height="65dp"
+        android:onClick="onLogin"
+        android:text="Login"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.153"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edtTextEmail"
+        app:layout_constraintVertical_bias="0.188" />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="115dp"
+        android:layout_height="66dp"
+        android:onClick="onTest"
+        android:text="Test"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.786"
+        app:layout_constraintStart_toEndOf="@+id/btn1"
+        app:layout_constraintTop_toBottomOf="@+id/edtTextEmail"
+        app:layout_constraintVertical_bias="0.186" />
+
+    <EditText
+        android:id="@+id/edtTextName"
+        android:layout_width="259dp"
+        android:layout_height="84dp"
+        android:layout_marginTop="90dp"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/edtTextEmail"
+        android:layout_width="264dp"
+        android:layout_height="87dp"
+        android:layout_marginTop="50dp"
+        android:ems="10"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        app:layout_constraintEnd_toEndOf="@+id/edtTextName"
+        app:layout_constraintStart_toStartOf="@+id/edtTextName"
+        app:layout_constraintTop_toBottomOf="@+id/edtTextName" />
+</androidx.constraintlayout.widget.ConstraintLayout>
