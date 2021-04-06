@@ -1,0 +1,109 @@
+2021-04-06 20:25:02.905 7958-7958/? I/m.example.task: Not late-enabling -Xcheck:jni (already on)
+2021-04-06 20:25:03.065 7958-7958/? W/m.example.task: Unexpected CPU variant for X86 using defaults: x86
+2021-04-06 20:25:04.225 7958-7958/com.example.task1 I/FirebaseInitProvider: FirebaseApp initialization successful
+2021-04-06 20:25:04.279 7958-7989/com.example.task1 W/m.example.task: Unsupported class loader
+2021-04-06 20:25:04.297 7958-7989/com.example.task1 W/m.example.task: Skipping duplicate class check due to unsupported classloader
+2021-04-06 20:25:04.306 7958-7989/com.example.task1 I/DynamiteModule: Considering local module com.google.android.gms.measurement.dynamite:46 and remote module com.google.android.gms.measurement.dynamite:15
+2021-04-06 20:25:04.311 7958-7989/com.example.task1 I/DynamiteModule: Selected local version of com.google.android.gms.measurement.dynamite
+2021-04-06 20:25:04.379 7958-7958/com.example.task1 I/CleverTap: Activity Lifecycle Callback successfully registered
+2021-04-06 20:25:04.581 7958-7958/com.example.task1 W/m.example.task: Accessing hidden method Landroid/graphics/drawable/Drawable;->getOpticalInsets()Landroid/graphics/Insets; (light greylist, linking)
+2021-04-06 20:25:04.581 7958-7958/com.example.task1 W/m.example.task: Accessing hidden field Landroid/graphics/Insets;->left:I (light greylist, linking)
+2021-04-06 20:25:04.581 7958-7958/com.example.task1 W/m.example.task: Accessing hidden field Landroid/graphics/Insets;->right:I (light greylist, linking)
+2021-04-06 20:25:04.581 7958-7958/com.example.task1 W/m.example.task: Accessing hidden field Landroid/graphics/Insets;->top:I (light greylist, linking)
+2021-04-06 20:25:04.581 7958-7958/com.example.task1 W/m.example.task: Accessing hidden field Landroid/graphics/Insets;->bottom:I (light greylist, linking)
+2021-04-06 20:25:04.602 7958-7989/com.example.task1 V/FA: onActivityCreated
+2021-04-06 20:25:04.609 7958-7958/com.example.task1 I/CleverTap: Account Region not specified in the AndroidManifest - using default region
+2021-04-06 20:25:04.761 7958-7958/com.example.task1 D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2021-04-06 20:25:04.802 7958-7999/com.example.task1 I/CleverTap: SDK Version Code is 40001
+2021-04-06 20:25:04.806 7958-7999/com.example.task1 I/CleverTap: pushnotification.CTPushNotificationReceiver is present
+2021-04-06 20:25:04.823 7958-7999/com.example.task1 I/CleverTap: pushnotification.CTNotificationIntentService not present
+2021-04-06 20:25:04.828 7958-7999/com.example.task1 I/CleverTap: pushnotification.amp.CTBackgroundJobService is present
+2021-04-06 20:25:04.828 7958-7958/com.example.task1 I/CleverTap: CleverTap SDK initialized with accountId: Z44-Z4K-K65Z accountToken: TEST-341-441 accountRegion: null
+2021-04-06 20:25:04.850 7958-7999/com.example.task1 I/CleverTap: pushnotification.amp.CTBackgroundIntentService is present
+2021-04-06 20:25:04.869 7958-7999/com.example.task1 I/CleverTap: InAppNotificationActivity is present
+2021-04-06 20:25:04.882 7958-7999/com.example.task1 I/CleverTap: pushnotification.fcm.FcmMessageListenerService not present
+2021-04-06 20:25:04.900 7958-7999/com.example.task1 I/CleverTap: FcmTokenListenerService not present
+2021-04-06 20:25:04.923 7958-7994/com.example.task1 V/FA: App measurement collection enabled
+2021-04-06 20:25:04.928 7958-7994/com.example.task1 V/FA: App measurement enabled for app package, google app id: com.example.task1, 1:699015509284:android:fdde99092eea2fa2296fb1
+2021-04-06 20:25:04.937 7958-7958/com.example.task1 W/m.example.task: Accessing hidden field Landroid/view/WindowInsets;->CONSUMED:Landroid/view/WindowInsets; (light greylist, reflection)
+2021-04-06 20:25:04.946 7958-7994/com.example.task1 I/FA: App measurement initialized, version: 39000
+2021-04-06 20:25:04.947 7958-7994/com.example.task1 I/FA: To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+2021-04-06 20:25:04.953 7958-7994/com.example.task1 I/FA: To enable faster debug mode event logging run:
+      adb shell setprop debug.firebase.analytics.app com.example.task1
+2021-04-06 20:25:04.953 7958-7994/com.example.task1 D/FA: Debug-level message logging enabled
+2021-04-06 20:25:04.980 7958-7958/com.example.task1 W/m.example.task: Accessing hidden method Landroid/view/View;->getAccessibilityDelegate()Landroid/view/View$AccessibilityDelegate; (light greylist, linking)
+2021-04-06 20:25:05.122 7958-7958/com.example.task1 W/m.example.task: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (light greylist, reflection)
+2021-04-06 20:25:05.126 7958-7958/com.example.task1 W/m.example.task: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (light greylist, reflection)
+2021-04-06 20:25:05.222 7958-7994/com.example.task1 V/FA: Connecting to remote service
+2021-04-06 20:25:05.313 7958-7994/com.example.task1 V/FA: Connection attempt already in progress
+2021-04-06 20:25:05.354 7958-7994/com.example.task1 V/FA: Connection attempt already in progress
+2021-04-06 20:25:05.495 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: App Launched not yet processed, re-queuing event {"evtName":"Product viewed","evtData":{}}after 2s
+2021-04-06 20:25:05.507 7958-7994/com.example.task1 V/FA: Activity resumed, time: 2936045
+2021-04-06 20:25:05.522 7958-7958/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: In-app notifications will not be shown on []
+2021-04-06 20:25:05.568 7958-7958/com.example.task1 D/OpenGLRenderer: Skia GL Pipeline
+2021-04-06 20:25:05.605 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Queued event: {"profile":{"Carrier":"Android","cc":"us","tz":"Asia\/Calcutta"},"s":1617720905,"pg":1,"type":"profile","ep":1617720905,"f":false,"lsl":557,"dsync":true}
+2021-04-06 20:25:05.609 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Network retry #0
+2021-04-06 20:25:05.609 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Failure count is 0. Setting delay frequency to 1s
+2021-04-06 20:25:05.653 7958-7994/com.example.task1 I/FA: Tag Manager is not found and thus will not be used
+2021-04-06 20:25:05.673 7958-7969/com.example.task1 I/m.example.task: Background concurrent copying GC freed 23646(5MB) AllocSpace objects, 27(664KB) LOS objects, 50% free, 2MB/4MB, paused 1.806ms total 125.326ms
+2021-04-06 20:25:05.689 7958-7958/com.example.task1 W/m.example.task: Accessing hidden method Landroid/graphics/Insets;->of(IIII)Landroid/graphics/Insets; (light greylist, linking)
+2021-04-06 20:25:05.706 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Queued event: {"evtName":"App Launched","evtData":{"Build":"1","Version":"1.0","OS Version":"9","SDK Version":40001,"Make":"Google","Model":"AOSP on IA Emulator","Carrier":"Android","useIP":false,"OS":"Android","wdt":2.57,"hgt":4.27,"dpi":560,"dt":1,"cc":"us"},"s":1617720905,"pg":1,"type":"event","ep":1617720905,"f":false,"lsl":557,"pai":"com.example.task1","dsync":true}
+2021-04-06 20:25:05.709 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Network retry #0
+2021-04-06 20:25:05.709 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Failure count is 0. Setting delay frequency to 1s
+2021-04-06 20:25:05.750 7958-8008/com.example.task1 D/HostConnection: HostConnection::get() New Host Connection established 0xe2e99a30, tid 8008
+2021-04-06 20:25:05.776 7958-8008/com.example.task1 D/HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_YUV420_888_to_NV21 ANDROID_EMU_YUV_Cache ANDROID_EMU_async_unmap_buffer GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_async_frame_commands ANDROID_EMU_gles_max_version_3_1 
+2021-04-06 20:25:05.827 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Queued event: {"evtName":"wzrk_fetch","evtData":{"t":1},"s":1617720905,"pg":1,"type":"event","ep":1617720905,"f":false,"lsl":557,"dsync":false}
+2021-04-06 20:25:05.828 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Network retry #0
+2021-04-06 20:25:05.828 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Failure count is 0. Setting delay frequency to 1s
+2021-04-06 20:25:05.851 7958-8008/com.example.task1 I/ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+2021-04-06 20:25:05.851 7958-8008/com.example.task1 I/ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+2021-04-06 20:25:05.851 7958-8008/com.example.task1 I/OpenGLRenderer: Initialized EGL, version 1.4
+2021-04-06 20:25:05.851 7958-8008/com.example.task1 D/OpenGLRenderer: Swap behavior 1
+2021-04-06 20:25:05.852 7958-8008/com.example.task1 W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2021-04-06 20:25:05.852 7958-8008/com.example.task1 D/OpenGLRenderer: Swap behavior 0
+2021-04-06 20:25:05.867 7958-8008/com.example.task1 D/eglCodecCommon: setVertexArrayObject: set vao to 0 (0) 0 0
+2021-04-06 20:25:05.867 7958-8008/com.example.task1 D/EGL_emulation: eglCreateContext: 0xcfa479c0: maj 3 min 1 rcv 4
+2021-04-06 20:25:05.888 7958-8008/com.example.task1 D/EGL_emulation: eglMakeCurrent: 0xcfa479c0: ver 3 1 (tinfo 0xe2f610e0)
+2021-04-06 20:25:05.890 7958-8008/com.example.task1 E/eglCodecCommon: glUtilsParamSize: unknow param 0x000082da
+2021-04-06 20:25:05.890 7958-8008/com.example.task1 E/eglCodecCommon: glUtilsParamSize: unknow param 0x000082da
+2021-04-06 20:25:05.893 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Queued event: {"data":{"action":"register","id":"eicPBxpgQ6-z7IEK6g9vdY:APA91bFoIBXYbBK9tyLd1XgSOMQ88brKUUVsjw4CawEnVW2OcgLuCXNl5qkFfmww9hoLWHptKGRIkBe03ObNnxtfVNEEmks0hfEejpT_bdIC-zMWDzMJyBPZ1QmuYDt0hoRKMuZ7BxCw","type":"fcm"},"s":1617720905,"pg":1,"type":"data","ep":1617720905,"f":false,"lsl":557,"dsync":false}
+2021-04-06 20:25:05.908 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Network retry #0
+2021-04-06 20:25:05.908 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Failure count is 0. Setting delay frequency to 1s
+2021-04-06 20:25:05.961 7958-8008/com.example.task1 D/HostConnection: createUnique: call
+2021-04-06 20:25:05.962 7958-8008/com.example.task1 D/HostConnection: HostConnection::get() New Host Connection established 0xe2e9b880, tid 8008
+2021-04-06 20:25:05.968 7958-8008/com.example.task1 D/HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_YUV420_888_to_NV21 ANDROID_EMU_YUV_Cache ANDROID_EMU_async_unmap_buffer GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_async_frame_commands ANDROID_EMU_gles_max_version_3_1 
+2021-04-06 20:25:05.968 7958-8008/com.example.task1 E/eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+2021-04-06 20:25:06.003 7958-7994/com.example.task1 V/FA: Connection attempt already in progress
+2021-04-06 20:25:06.005 7958-7994/com.example.task1 V/FA: Connection attempt already in progress
+2021-04-06 20:25:06.049 7958-8008/com.example.task1 D/EGL_emulation: eglMakeCurrent: 0xcfa479c0: ver 3 1 (tinfo 0xe2f610e0)
+2021-04-06 20:25:06.053 7958-8008/com.example.task1 D/eglCodecCommon: setVertexArrayObject: set vao to 0 (0) 1 2
+2021-04-06 20:25:06.198 7958-7994/com.example.task1 D/FA: Connected to remote service
+2021-04-06 20:25:06.201 7958-7994/com.example.task1 V/FA: Processing queued up service tasks: 5
+2021-04-06 20:25:06.954 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Send queue contains 3 items: [{"g":"__g232375a3d35e41ba8fd9e9cb8531458d","type":"meta","af":{"Build":"1","Version":"1.0","OS Version":"9","SDK Version":40001,"Make":"Google","Model":"AOSP on IA Emulator","Carrier":"Android","useIP":false,"OS":"Android","wdt":2.57,"hgt":4.27,"dpi":560,"dt":1,"cc":"us"},"id":"Z44-Z4K-K65Z","tk":"TEST-341-441","l_ts":1617720808,"f_ts":1617699822,"ct_pi":"Email,Identity","ddnd":false,"rtl":[],"rct":0,"ait":0,"frs":true,"arp":{"sv":40001,"dh":-1529238953,"wdt":2,"d_ts":1617699823,"hgt":4,"av":"1.0","v":1,"e_ts":0,"j_n":"bm9iegA=","i_n":"ZGpieQA=","r_ts":1617720811,"id":"Z44-Z4K-K65Z","k_n":"[ \"61026032\" , \"vishal@gmail.com\" , \"Vishal@gmail.com\"]","j_s":"{ }"},"imp":0,"tlc":[]}, {"evtName":"App Launched","evtData":{"Build":"1","Version":"1.0","OS Version":"9","SDK Version":40001,"Make":"Google","Model":"AOSP on IA Emulator","Carrier":"Android","useIP":false,"OS":"Android","wdt":2.57,"hgt":4.27,"dpi":560,"dt":1,"cc":"us"},"s":1617720905,"pg":1,"type":"event","ep":1617720905,"f":false,"lsl":557,"pai":"com.example.task1","dsync":true},{"evtName":"wzrk_fetch","evtData":{"t":1},"s":1617720905,"pg":1,"type":"event","ep":1617720905,"f":false,"lsl":557,"dsync":false},{"data":{"action":"register","id":"eicPBxpgQ6-z7IEK6g9vdY:APA91bFoIBXYbBK9tyLd1XgSOMQ88brKUUVsjw4CawEnVW2OcgLuCXNl5qkFfmww9hoLWHptKGRIkBe03ObNnxtfVNEEmks0hfEejpT_bdIC-zMWDzMJyBPZ1QmuYDt0hoRKMuZ7BxCw","type":"fcm"},"s":1617720905,"pg":1,"type":"data","ep":1617720905,"f":false,"lsl":557,"dsync":false}]
+2021-04-06 20:25:06.955 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Sending queue to: https://wzrkt.com/a1?os=Android&t=40001&z=Z44-Z4K-K65Z&ts=1617720906
+2021-04-06 20:25:07.232 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Queue sent successfully
+2021-04-06 20:25:07.280 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Send queue contains 1 items: [{"g":"__g232375a3d35e41ba8fd9e9cb8531458d","type":"meta","af":{"Build":"1","Version":"1.0","OS Version":"9","SDK Version":40001,"Make":"Google","Model":"AOSP on IA Emulator","Carrier":"Android","useIP":false,"OS":"Android","wdt":2.57,"hgt":4.27,"dpi":560,"dt":1,"cc":"us"},"id":"Z44-Z4K-K65Z","tk":"TEST-341-441","l_ts":1617720906,"f_ts":1617699822,"ct_pi":"Email,Identity","ddnd":false,"rtl":[],"rct":0,"ait":0,"frs":false,"arp":{"sv":40001,"dh":-1529238953,"wdt":2,"d_ts":1617699823,"hgt":4,"av":"1.0","v":1,"e_ts":0,"j_n":"bm9iegA=","i_n":"ZGpieQA=","r_ts":1617720910,"id":"Z44-Z4K-K65Z","k_n":"[ \"61026032\" , \"vishal@gmail.com\" , \"Vishal@gmail.com\"]","j_s":"{ }"},"imp":0,"tlc":[]}, {"profile":{"Carrier":"Android","cc":"us","tz":"Asia\/Calcutta"},"s":1617720905,"pg":1,"type":"profile","ep":1617720905,"f":false,"lsl":557,"dsync":true}]
+2021-04-06 20:25:07.280 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Sending queue to: https://wzrkt.com/a1?os=Android&t=40001&z=Z44-Z4K-K65Z&ts=1617720907
+2021-04-06 20:25:07.468 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Queue sent successfully
+2021-04-06 20:25:07.522 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Queued event: {"evtName":"Product viewed","evtData":{},"s":1617720905,"pg":1,"type":"event","ep":1617720907,"f":false,"lsl":557,"dsync":false}
+2021-04-06 20:25:07.524 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Network retry #0
+2021-04-06 20:25:07.524 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Failure count is 0. Setting delay frequency to 1s
+2021-04-06 20:25:08.549 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Send queue contains 1 items: [{"g":"__g232375a3d35e41ba8fd9e9cb8531458d","type":"meta","af":{"Build":"1","Version":"1.0","OS Version":"9","SDK Version":40001,"Make":"Google","Model":"AOSP on IA Emulator","Carrier":"Android","useIP":false,"OS":"Android","wdt":2.57,"hgt":4.27,"dpi":560,"dt":1,"cc":"us"},"id":"Z44-Z4K-K65Z","tk":"TEST-341-441","l_ts":1617720907,"f_ts":1617699822,"ct_pi":"Email,Identity","ddnd":false,"rtl":[],"rct":0,"ait":0,"frs":false,"arp":{"sv":40001,"dh":-1529238953,"wdt":2,"d_ts":1617699823,"hgt":4,"av":"1.0","v":1,"e_ts":0,"j_n":"bm9iegA=","i_n":"ZGpieQA=","r_ts":1617720910,"id":"Z44-Z4K-K65Z","k_n":"[ \"61026032\" , \"vishal@gmail.com\" , \"Vishal@gmail.com\"]","j_s":"{ }"},"imp":0,"tlc":[]}, {"evtName":"Product viewed","evtData":{},"s":1617720905,"pg":1,"type":"event","ep":1617720907,"f":false,"lsl":557,"dsync":false}]
+2021-04-06 20:25:08.550 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Sending queue to: https://wzrkt.com/a1?os=Android&t=40001&z=Z44-Z4K-K65Z&ts=1617720908
+2021-04-06 20:25:08.703 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Queue sent successfully
+2021-04-06 20:25:11.515 7958-7994/com.example.task1 V/FA: Inactivity, disconnecting from the service
+2021-04-06 20:25:15.080 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Queued event: {"evtName":"Test","evtData":{},"s":1617720905,"pg":1,"type":"event","ep":1617720915,"f":false,"lsl":557,"dsync":false}
+2021-04-06 20:25:15.083 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Network retry #0
+2021-04-06 20:25:15.083 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Failure count is 0. Setting delay frequency to 1s
+2021-04-06 20:25:16.105 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Send queue contains 1 items: [{"g":"__g232375a3d35e41ba8fd9e9cb8531458d","type":"meta","af":{"Build":"1","Version":"1.0","OS Version":"9","SDK Version":40001,"Make":"Google","Model":"AOSP on IA Emulator","Carrier":"Android","useIP":false,"OS":"Android","wdt":2.57,"hgt":4.27,"dpi":560,"dt":1,"cc":"us"},"id":"Z44-Z4K-K65Z","tk":"TEST-341-441","l_ts":1617720908,"f_ts":1617699822,"ct_pi":"Email,Identity","ddnd":false,"rtl":[],"rct":0,"ait":0,"frs":false,"arp":{"sv":40001,"dh":-1529238953,"wdt":2,"d_ts":1617699823,"hgt":4,"av":"1.0","v":1,"e_ts":0,"j_n":"bm9iegA=","i_n":"ZGpieQA=","r_ts":1617720911,"id":"Z44-Z4K-K65Z","k_n":"[ \"61026032\" , \"vishal@gmail.com\" , \"Vishal@gmail.com\"]","j_s":"{ }"},"imp":0,"tlc":[]}, {"evtName":"Test","evtData":{},"s":1617720905,"pg":1,"type":"event","ep":1617720915,"f":false,"lsl":557,"dsync":false}]
+2021-04-06 20:25:16.105 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Sending queue to: https://wzrkt.com/a1?os=Android&t=40001&z=Z44-Z4K-K65Z&ts=1617720916
+2021-04-06 20:25:16.551 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Queue sent successfully
+2021-04-06 20:25:20.031 7958-7958/com.example.task1 I/AssistStructure: Flattened final assist data: 2828 bytes, containing 1 windows, 10 views
+2021-04-06 20:25:27.175 7958-7958/com.example.task1 I/AssistStructure: Flattened final assist data: 2852 bytes, containing 1 windows, 10 views
+2021-04-06 20:25:39.786 7958-7958/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: onUserLogin: {MSG-push=true, MSG-whatsapp=true, Email=vishal@gmail.com, Phone=+14155551234, DOB=Tue Apr 06 20:25:39 GMT+05:30 2021, MyStuff=[Ljava.lang.String;@5790d25, Gender=M, Identity=61026032, MSG-email=false, MSG-sms=false, Name=vishal} maps to current device id __g232375a3d35e41ba8fd9e9cb8531458d pushing on current profile
+2021-04-06 20:25:39.874 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Queued event: {"profile":{"MSG-push":true,"MSG-whatsapp":true,"Email":"vishal@gmail.com","Phone":"+14155551234","DOB":"$D_1617720939","MyStuff":{"$set":["Jeans","Perfume"]},"Gender":"M","Identity":61026032,"MSG-email":false,"MSG-sms":false,"Name":"vishal","Carrier":"Android","cc":"us","tz":"Asia\/Calcutta"},"s":1617720905,"pg":1,"type":"profile","ep":1617720939,"f":false,"lsl":557,"dsync":true}
+2021-04-06 20:25:39.877 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Network retry #0
+2021-04-06 20:25:39.877 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Failure count is 0. Setting delay frequency to 1s
+2021-04-06 20:25:40.962 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Send queue contains 1 items: [{"g":"__g232375a3d35e41ba8fd9e9cb8531458d","type":"meta","af":{"Build":"1","Version":"1.0","OS Version":"9","SDK Version":40001,"Make":"Google","Model":"AOSP on IA Emulator","Carrier":"Android","useIP":false,"OS":"Android","wdt":2.57,"hgt":4.27,"dpi":560,"dt":1,"cc":"us"},"id":"Z44-Z4K-K65Z","tk":"TEST-341-441","l_ts":1617720916,"f_ts":1617699822,"ct_pi":"Email,Identity","ddnd":false,"rtl":[],"rct":0,"ait":0,"frs":false,"arp":{"sv":40001,"dh":-1529238953,"wdt":2,"d_ts":1617699823,"hgt":4,"av":"1.0","v":1,"e_ts":0,"j_n":"bm9iegA=","i_n":"ZGpieQA=","r_ts":1617720919,"id":"Z44-Z4K-K65Z","k_n":"[ \"61026032\" , \"vishal@gmail.com\" , \"Vishal@gmail.com\"]","j_s":"{ }"},"imp":0,"tlc":[]}, {"profile":{"MSG-push":true,"MSG-whatsapp":true,"Email":"vishal@gmail.com","Phone":"+14155551234","DOB":"$D_1617720939","MyStuff":{"$set":["Jeans","Perfume"]},"Gender":"M","Identity":61026032,"MSG-email":false,"MSG-sms":false,"Name":"vishal","Carrier":"Android","cc":"us","tz":"Asia\/Calcutta"},"s":1617720905,"pg":1,"type":"profile","ep":1617720939,"f":false,"lsl":557,"dsync":true}]
+2021-04-06 20:25:40.962 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Sending queue to: https://wzrkt.com/a1?os=Android&t=40001&z=Z44-Z4K-K65Z&ts=1617720940
+2021-04-06 20:25:41.157 7958-7999/com.example.task1 D/CleverTap:Z44-Z4K-K65Z: Queue sent successfully
